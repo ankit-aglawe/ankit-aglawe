@@ -1,5 +1,3 @@
-👋 Welcome to My Profile! 🌟
-
 ## About Me
 
 👨‍💻 I'm Ankit Aglawe, a Machine Learning Engineer based in Manchester, UK. With a master's degree in AI and over 5 years of experience, I thrive on exploring the vast possibilities of AI and creating innovative solutions. My expertise lies in Text Classification, LLMs, and Financial AI.
