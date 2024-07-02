@@ -4,7 +4,7 @@
 
 👨‍💻 I'm Ankit Aglawe, a Machine Learning Engineer based in Manchester, UK. With a master's degree in AI and over 5 years of experience, I thrive on exploring the vast possibilities of AI and creating innovative solutions. My expertise lies in Text Classification, LLMs, and Financial AI.
 
-## Projects that Amaze! ✨
+## Some Projects ! ✨
 
 🔭 **[Image2Caption: Deep Learning-based Image Captioning](https://github.com/ankit-aglawe/Image2Caption)**: 📸 Experience the magic of AI-generated captions for images. This project uses a fusion of CNN and Transformers to bring images to life with descriptive and contextually relevant captions.
 
