@@ -8,7 +8,7 @@
 
 🚀 **[ResumeRanker: Intelligent Resume Screening](https://github.com/ankit-aglawe/ResumeRanker)**: 📄 Simplify the hiring process with this AI-powered tool that ranks resumes based on relevance and key criteria, leveraging machine learning to streamline recruitment.
 
-🌐 **[sentimentpredictor](https://pypi.org/project/sentimentpredictor/)**: 💬 A flexible sentiment analysis predictor package supporting multiple pre-trained models, customizable preprocessing, visualization tools, fine-tuning capabilities, and seamless integration with pandas DataFrames.
+🌐 **[SentimentPredictor: Sentiment Analysis Package](https://pypi.org/project/sentimentpredictor/)**: 💬 A flexible sentiment analysis predictor package supporting multiple pre-trained models, customizable preprocessing, visualization tools, fine-tuning capabilities, and seamless integration with pandas DataFrames.
 
 🌟 **[EmotionClassifier: Emotion Classification Package](https://pypi.org/project/emotionclassifier/)**: 🧠 Classify emotions in text using various pre-trained models with this user-friendly package. It includes customizable preprocessing, visualization tools, and integration with data platforms.
 
