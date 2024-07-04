@@ -16,6 +16,8 @@
 
 📄 **[How to Perform Sentiment Analysis on Reviews Using a Fine-Tuned RoBERTa Model](https://medium.com/@aglawe.ankit/how-to-perform-sentiment-analysis-on-reviews-using-a-fine-tuned-roberta-model-d442a1444410)**: Explore my detailed guide on performing sentiment analysis using a fine-tuned RoBERTa model.
 
+📄 **[How to perform Emotion Classification on Text Using a Fine-Tuned DeBERTa Model](https://medium.com/@aglawe.ankit/emotionclassifier-emotion-classification-on-text-using-a-fine-tuned-deberta-model-95a432a7ac75)**: Discover my comprehensive article on emotion classification on text, utilizing a fine-tuned DeBERTa model.
+
 ## Hugging Face Contributions 🤗
 
 📊 **[Categorized Text Reviews Dataset](https://huggingface.co/datasets/AnkitAI/CategorizedTextReviews)**: A comprehensive dataset of categorized text reviews for various NLP tasks.
