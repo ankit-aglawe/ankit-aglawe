@@ -1,38 +1,48 @@
-## About Me
+# About Me
 
-👨‍💻 I'm Ankit Aglawe, a Machine Learning Engineer based in Manchester, UK. With a master's degree in AI and over 5 years of experience, I thrive on exploring the vast possibilities of AI and creating innovative solutions. My expertise lies in Text Classification, LLMs, and Financial AI.
+I am Ankit Aglawe, a Machine Learning Engineer based in Manchester, UK. With a master's degree in Artificial Intelligence and over five years of professional experience, I specialize in developing innovative AI solutions. My expertise includes Text Classification, Large Language Models (LLMs), and applications in Financial AI.
 
-## Some Projects ! ✨
+# Projects
 
-🔭 **[Image2Caption: Deep Learning-based Image Captioning](https://github.com/ankit-aglawe/Image2Caption)**: 📸 Experience the magic of AI-generated captions for images. This project uses a fusion of CNN and Transformers to bring images to life with descriptive and contextually relevant captions.
+1. **[TextPredict: Advanced Text Prediction Tool](https://github.com/ankit-aglawe/textpredict)**  
+   [Documentation](https://ankit-aglawe.github.io/textpredict/)  
+   Developed an advanced text prediction tool that leverages sophisticated language models to generate accurate and contextually appropriate text. This project demonstrates my proficiency in natural language processing and predictive modeling.
 
-🚀 **[ResumeRanker: Intelligent Resume Screening](https://github.com/ankit-aglawe/ResumeRanker)**: 📄 Simplify the hiring process with this AI-powered tool that ranks resumes based on relevance and key criteria, leveraging machine learning to streamline recruitment.
+2. **[EmotionClassifier: Emotion Classification Package](https://pypi.org/project/emotionclassifier/)**  
+   Created a comprehensive package for classifying emotions in text using various pre-trained models. It offers customizable preprocessing, visualization tools, and seamless integration with data platforms, enhancing sentiment analysis capabilities in diverse applications.
 
-🌐 **[SentimentPredictor: Sentiment Analysis Package](https://pypi.org/project/sentimentpredictor/)**: 💬 A flexible sentiment analysis predictor package supporting multiple pre-trained models, customizable preprocessing, visualization tools, fine-tuning capabilities, and seamless integration with pandas DataFrames.
+3. **[SentimentPredictor: Sentiment Analysis Package](https://pypi.org/project/sentimentpredictor/)**  
+   Developed a flexible sentiment analysis package supporting multiple pre-trained models. Features include customizable preprocessing, visualization tools, fine-tuning capabilities, and integration with pandas DataFrames, facilitating efficient sentiment analysis workflows.
 
-🌟 **[EmotionClassifier: Emotion Classification Package](https://pypi.org/project/emotionclassifier/)**: 🧠 Classify emotions in text using various pre-trained models with this user-friendly package. It includes customizable preprocessing, visualization tools, and integration with data platforms.
+4. **[ConfigConverter: Configuration File Converter](https://github.com/ankit-aglawe/configconverter#)**  
+   [Documentation](https://ankit-aglawe.github.io/configconverter/)  
+   Designed a tool to convert configuration files between different formats, aiding in the management and migration of application settings across various environments. This utility simplifies configuration management in complex systems.
 
-## Articles and Contributions 📝
+# Publications and Articles
 
-📄 **[How to Perform Sentiment Analysis on Reviews Using a Fine-Tuned RoBERTa Model](https://medium.com/@aglawe.ankit/how-to-perform-sentiment-analysis-on-reviews-using-a-fine-tuned-roberta-model-d442a1444410)**: Explore my detailed guide on performing sentiment analysis using a fine-tuned RoBERTa model.
+- **[How to Perform Sentiment Analysis on Reviews Using a Fine-Tuned RoBERTa Model](https://medium.com/@aglawe.ankit/how-to-perform-sentiment-analysis-on-reviews-using-a-fine-tuned-roberta-model-d442a1444410)**  
+  Authored a detailed guide on performing sentiment analysis using a fine-tuned RoBERTa model, providing insights into model fine-tuning and practical applications in sentiment analysis.
 
-📄 **[How to perform Emotion Classification on Text Using a Fine-Tuned DeBERTa Model](https://medium.com/@aglawe.ankit/emotionclassifier-emotion-classification-on-text-using-a-fine-tuned-deberta-model-95a432a7ac75)**: Discover my comprehensive article on emotion classification on text, utilizing a fine-tuned DeBERTa model.
+- **[How to Perform Emotion Classification on Text Using a Fine-Tuned DeBERTa Model](https://medium.com/@aglawe.ankit/emotionclassifier-emotion-classification-on-text-using-a-fine-tuned-deberta-model-95a432a7ac75)**  
+  Wrote a comprehensive article on emotion classification utilizing a fine-tuned DeBERTa model, discussing methodologies and implementation strategies for effective emotion detection.
 
-## Hugging Face Contributions 🤗
+# Hugging Face Contributions
 
-📊 **[Categorized Text Reviews Dataset](https://huggingface.co/datasets/AnkitAI/CategorizedTextReviews)**: A comprehensive dataset of categorized text reviews for various NLP tasks.
+- **[Categorized Text Reviews Dataset](https://huggingface.co/datasets/AnkitAI/CategorizedTextReviews)**  
+  Compiled a comprehensive dataset of categorized text reviews for various natural language processing tasks, supporting research and development in sentiment analysis and text classification.
 
-🔍 **[RoBERTa Base Sentiment Analysis Model](https://huggingface.co/AnkitAI/reviews-roberta-base-sentiment-analysis)**: Fine-tuned RoBERTa model for sentiment analysis on text reviews.
+- **[RoBERTa Base Sentiment Analysis Model](https://huggingface.co/AnkitAI/reviews-roberta-base-sentiment-analysis)**  
+  Developed a fine-tuned RoBERTa model for sentiment analysis on text reviews, enhancing accuracy and performance in sentiment detection applications.
 
-🧠 **[DeBERTa v3 Small Base Emotions Classifier](https://huggingface.co/AnkitAI/deberta-v3-small-base-emotions-classifier)**: Emotion classification model fine-tuned on a variety of text data.
+- **[DeBERTa v3 Small Base Emotions Classifier](https://huggingface.co/AnkitAI/deberta-v3-small-base-emotions-classifier)**  
+  Created an emotion classification model fine-tuned on diverse text data, enabling nuanced emotion detection in natural language processing tasks.
 
-🧠 **[DeBERTa XLarge Base Emotions Classifier](https://huggingface.co/AnkitAI/deberta-xlarge-base-emotions-classifier)**: Advanced emotion classification model for nuanced emotion detection.
+- **[DeBERTa XLarge Base Emotions Classifier](https://huggingface.co/AnkitAI/deberta-xlarge-base-emotions-classifier)**  
+  Developed an advanced emotion classification model for detailed emotion analysis, suitable for applications requiring high precision in emotion detection.
 
-🌐 **[Reviews RoBERTa Sentiment Analyser (Hugging Face Space)](https://huggingface.co/spaces/AnkitAI/reviews-roberta-sentiment-analyser)**: Interactive space for performing sentiment analysis on text reviews using the fine-tuned RoBERTa model.
+- **[Reviews RoBERTa Sentiment Analyzer (Hugging Face Space)](https://huggingface.co/spaces/AnkitAI/reviews-roberta-sentiment-analyser)**  
+  Established an interactive space for performing sentiment analysis on text reviews using the fine-tuned RoBERTa model, facilitating hands-on experimentation and application.
 
-## Let's Connect! 🤝
+# Let's Connect
 
-📫 Feel free to reach out to me for collaboration opportunities or to discuss fascinating AI ideas. Let's shape the future together! Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-aglawe) and check out my other projects on [GitHub](https://github.com/ankit-aglawe).
-
-
----
+I am open to collaboration opportunities and discussions on innovative AI ideas. Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-aglawe) and explore my other projects on [GitHub](https://github.com/ankit-aglawe).
