@@ -14,12 +14,8 @@
   </a>
 
 </div>
-<div align="center" id="badges"><img  src="https://komarev.com/ghpvc/?username=ankit-aglawe&style=flat-square&color=blue" alt="Ankit github views"/></div>
+<div align="center" id="badges"><img  src="https://komarev.com/ghpvc/?username=ankit-aglawe&base=2000&style=for-the-badge&color=blue" alt="Github Views"/></div>
 
-
-<h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-, I'm Ankit</h1>
 
 # About Me
 
