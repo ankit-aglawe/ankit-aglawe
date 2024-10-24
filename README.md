@@ -1,3 +1,26 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ankit-aglawe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/4414730/lucario">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <a href="https://github.com/ankit-aglawe">
+    <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+
+</div>
+<div align="center" id="badges"><img  src="https://komarev.com/ghpvc/?username=ankit-aglawe&style=flat-square&color=blue" alt="Ankit github views"/></div>
+
+
+<h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   
+, I'm Ankit</h1>
+
 # About Me
 
 I am Ankit Aglawe, a Machine Learning Engineer based in Manchester, UK. With a master's degree in Artificial Intelligence and over five years of professional experience, I specialize in developing innovative AI solutions. My expertise includes Text Classification, Large Language Models (LLMs), and applications in Financial AI.
